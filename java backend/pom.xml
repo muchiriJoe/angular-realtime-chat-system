@@ -4,10 +4,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.joemuchiri</groupId>
-	<artifactId>realtime_chat_system</artifactId>
+	<artifactId>realtime-chat-system</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>realtime_chat_system</name>
+	<name>realtime-chat-system</name>
 	<description>a realtime chat system using websockets and springboot</description>
 
 
